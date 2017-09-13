@@ -1,0 +1,5 @@
+#Life 1.06
+#N Example input
+#R B1357/S1357
+#S 10 10
+0 0

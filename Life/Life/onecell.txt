@@ -1,0 +1,5 @@
+#Life 1.06
+#N Triangle
+#R B1/S12
+#S 150 150
+0 0
